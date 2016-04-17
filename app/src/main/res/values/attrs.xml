@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pie_attr">
+        <attr name="active_background_color" format="color" />
+        <attr name="checked_background_color" format="color" />
+        <attr name="alpha" format="integer" />
+        <attr name="margin" format="integer" />
+        <attr name="sections_count" format="integer" />
+    </declare-styleable>
+</resources>
